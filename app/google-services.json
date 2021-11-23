@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902247717854",
+    "project_id": "uaqychat",
+    "storage_bucket": "uaqychat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902247717854:android:d9537df67705bbe4469b4f",
+        "android_client_info": {
+          "package_name": "com.example.uaqychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902247717854-7tg050evmcj2onedj5tfg1rg5tem2dco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uaqychat",
+            "certificate_hash": "08a105713057f80319e1336d81960d287bd5ebeb"
+          }
+        },
+        {
+          "client_id": "902247717854-2jfgcamih2net8tmo8n9b24vpuv3p0ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStzgfjgU8Y2Ya-vdsq1eBSTB6J-RJoRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902247717854-2jfgcamih2net8tmo8n9b24vpuv3p0ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

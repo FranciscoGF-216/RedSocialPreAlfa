@@ -1,0 +1,16 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name="EditTextWhite" parent="TextAppearance.AppCompat"></style>
+
+    <style name="ToolbarName" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+
+
+
+</resources>
